@@ -4,13 +4,13 @@
 
 ## 在 Codex 中安装
 
-在 Codex 对话中发送下面这句话。若你从草稿 PR 预览此说明，请在末尾加上 `使用 codex/add-cognitive-continuity-learning 分支`。
+在 Codex 对话中发送下面这句话。
 
 ```text
 用 $skill-installer 从 GitHub 仓库 shizian0809-cpu/-skill 安装 cognitive-continuity-learning 目录里的技能。
 ```
 
-也可以在 GitHub 选择包含本说明的分支，通过 **Code → Download ZIP** 下载并解压，再将整个 `cognitive-continuity-learning` 文件夹复制到个人技能目录。
+也可以在 GitHub 仓库首页通过 **Code → Download ZIP** 下载并解压，再将整个 `cognitive-continuity-learning` 文件夹复制到个人技能目录。
 
 - Windows 使用 `%USERPROFILE%\.agents\skills\`。
 - macOS 和 Linux 使用 `~/.agents/skills/`。
